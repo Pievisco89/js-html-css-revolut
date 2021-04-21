@@ -2,6 +2,8 @@ $(function(){
 
   $('.with-dropdown').mouseenter(function(){
 
+    $('.dropdown-menu.active').removeClass('active');
+    
     $(this).find('.dropdown-menu').addClass('active');
     
   });
