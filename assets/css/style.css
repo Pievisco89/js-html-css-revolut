@@ -133,7 +133,7 @@ header .container .nav-right .buttons button:hover{
   left: -15px;
 }
 
-.dropdown-menu .dropdown-box{
+.dropdown-menu.large .dropdown-box{
   padding: 5px;
   margin-left: 40px;
 }
